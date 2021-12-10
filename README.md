@@ -1,4 +1,4 @@
-# LGMVIP-Dec21-Data-Science
+# LGMVIP-Data-Science
 # Begineer level
 Task 1 - iris flower classification ML project
 
